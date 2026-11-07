@@ -1,0 +1,28 @@
+project_id = "tglrbojftwsjhryrquel"
+
+[functions.delete-account]
+verify_jwt = false
+
+[functions.send-auth-email]
+verify_jwt = false
+
+[functions.send-order-status-email]
+verify_jwt = false
+
+[functions.send-abandoned-cart-email]
+verify_jwt = false
+
+[functions.send-review-reminder-email]
+verify_jwt = false
+
+[functions.send-new-order-email]
+verify_jwt = false
+
+[functions.send-admin-otp]
+verify_jwt = false
+
+[functions.verify-admin-otp]
+verify_jwt = false
+
+[functions.get-customer-emails]
+verify_jwt = false

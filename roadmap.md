@@ -1,0 +1,5 @@
+- [x] Apply the new storefront header consistently across routes
+- [x] Rework category/shop pages to match the supplied reference and remove the sticky sorter
+- [x] Verify the updated preview and clear any build issues
+- [ ] Replace non-Lucide interface icons across storefront and admin
+- [ ] Verify Lucide-only icons on desktop and mobile

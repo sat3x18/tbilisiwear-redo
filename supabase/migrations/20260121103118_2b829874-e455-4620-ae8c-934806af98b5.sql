@@ -1,0 +1,1 @@
+ALTER TABLE public.brands ADD COLUMN navbar_image_url TEXT;

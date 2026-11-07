@@ -1,0 +1,24 @@
+# TBILISI WEAR
+
+> Minimalist luxury fashion house from Tbilisi. Curated clothing and accessories for men and women, designed and crafted to last.
+
+TBILISI WEAR is an independent fashion label offering a curated edit of premium pieces. The website is an e-commerce store with collections for women and men, brand pages, seasonal sales, and editorial content.
+
+## Pages
+
+- [Home](/): Brand overview, featured collections, and current campaigns.
+- [Shop](/shop): Full product catalog across all categories.
+- [Women](/women): Women's collection — ready-to-wear and accessories.
+- [Men](/men): Men's collection — ready-to-wear and accessories.
+- [Brands](/brands): Designers and labels stocked at TBILISI WEAR.
+- [Bundles](/bundles): Curated multi-item bundles at a reduced price.
+- [Sale](/sale): Current markdowns and seasonal discounts.
+- [Flash Sale](/flash-sale): Limited-time, time-boxed promotions.
+- [About](/about): Brand story, philosophy, and craft.
+- [Contact](/contact): Customer care, wholesale, and press contact.
+- [FAQ](/faq): Shipping, returns, sizing, and ordering questions.
+
+## Optional
+
+- [Terms & Conditions](/terms): Terms of sale and website use.
+- [Privacy Policy](/privacy): How customer data is handled.
